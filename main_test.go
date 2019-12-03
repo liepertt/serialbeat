@@ -6,7 +6,7 @@ import (
 	"flag"
 	"testing"
 
-	"github.com/benben/serialbeat/cmd"
+	"github.com/liepertt/serialbeat/cmd"
 )
 
 var systemTest *bool
